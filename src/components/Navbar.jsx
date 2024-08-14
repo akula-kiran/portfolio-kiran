@@ -10,7 +10,7 @@ const Navbar = () => {
             <img className="mx-8 w-10" src={logo} alt="logo"></img>
         </div>
         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-            <a href="inkedin.com/in/kiran-dharma-naidu-akula-420238222/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/kiran-dharma-naidu-akula-420238222/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin />
             </a>
             <a href="https://github.com/kiran-akula" target="_blank" rel="noopener noreferrer">
